@@ -1,0 +1,14 @@
+enum class BinaryOperator {
+    ADDITION,
+    SUBTRACTION,
+    MULTIPLICATION,
+    DIVISION,
+    EQUAL_TO,
+    NOT_EQUAL_TO,
+    LESS_THAN,
+    GREATER_THAN,
+    LOGICAL_AND,
+    LOGICAL_OR,
+}
+
+
